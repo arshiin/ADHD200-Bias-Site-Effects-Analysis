@@ -1,0 +1,11 @@
+# Python 3.10. Versions used to produce the paper's results.
+numpy==2.2.6
+pandas==2.3.3
+scipy==1.15.3
+scikit-learn==1.7.2
+matplotlib==3.10.9
+neuroHarmonize==2.4.5
+neuroCombat==0.2.12        # needed by neuroHarmonize but not installed automatically
+statsmodels==0.14.6
+# only needed for the optional preprocessing/00_make_region_map.py
+nibabel==5.4.2

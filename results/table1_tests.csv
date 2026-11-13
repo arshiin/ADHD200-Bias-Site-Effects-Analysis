@@ -1,0 +1,6 @@
+comparison,auc_difference,p_delong,balanced_accuracy_difference,p_bootstrap
+"Demographics (age, sex) vs Functional Connectivity (FC)",0.016485251777425214,0.5502074782716697,0.027109407133203978,0.2664
+"Demographics + FC vs Demographics (age, sex)",-0.013635495622539517,0.5814719066696823,-0.015585522063575996,0.454
+Demographics + FC vs Functional Connectivity (FC),0.0028497561548856964,0.8453847434678179,0.011523885069627982,0.4424
+Functional Connectivity (FC) vs FC (ComBat harmonized),0.029019037546271775,0.18390350799820065,0.02176978670897234,0.3328
+Demographics + FC vs Demographics + FC (ComBat harmonized),0.024597508666784118,0.2557237807265379,0.020491803278688492,0.3488
